@@ -23,3 +23,7 @@ a:link, a:visited {
   background: white;
   padding: 10px;
 }
+
+ol, ul, li {
+  padding-bottom: 7px;
+}
