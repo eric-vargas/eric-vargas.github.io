@@ -31,3 +31,7 @@ a:link, a:visited {
 ol, ul, li {
   padding-bottom: 7px;
 }
+
+nav ul {
+  margin-left: -40px;
+}
