@@ -34,4 +34,23 @@ ol, ul, li {
 
 nav ul {
   margin-left: -40px;
+  margin-top: 3px;
+}
+
+.course header h2 {
+  margin-bottom: 20px;
+}
+
+/* Spacing in between Institution, Completion, and Certificate */
+.course header p {
+  margin: 0px 0px 3px 0px;
+}
+
+/* Spacing after header, before first paragraph */
+.course header {
+  margin-bottom: 20px;
+}
+
+hr {
+  margin: 20px 0px 20px 0px;
 }
