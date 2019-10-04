@@ -73,3 +73,7 @@ header nav {
   padding: 5px 5px 0px 10px;
   margin-bottom: 30px;
 }
+
+li {
+  font-size: 16px;
+}
