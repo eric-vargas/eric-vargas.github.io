@@ -28,6 +28,13 @@ ol, ul, li {
   padding-bottom: 7px;
 }
 
+/* Spacing for nested lists */
+.course div ol ul li {
+  padding-top: 7px;
+  padding-bottom: 7px;
+  margin-bottom: -7px;
+}
+
 header nav ul {
   margin-left: -40px;
   margin-top: 3px;
@@ -52,7 +59,7 @@ header nav ul {
 /******************************************************/
 
 .work-position header h2 {
-  margin-bottom: 20px;
+  margin-bottom: 00px;
 }
 
 /* Spacing in between Date and Location */
@@ -103,4 +110,3 @@ header nav {
 li {
   font-size: 16px;
 }
-
