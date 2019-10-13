@@ -124,3 +124,12 @@ li {
 #macys-image {
   margin-top: -2px;
 }
+
+#certifications h3 {
+  margin-top: 30px;
+  margin-bottom: -10px;
+}
+
+#certifications p {
+  margin-left: 2px;
+}
