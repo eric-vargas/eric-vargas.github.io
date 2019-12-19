@@ -12,6 +12,10 @@ a:link, a:visited {
   color: #3391FF;
 }
 
+#nav {
+  text-align: center;
+}
+
 #nav li {
   list-style-type: none;
   display: inline;
@@ -38,6 +42,12 @@ ol, ul, li {
 header nav ul {
   margin-left: -40px;
   margin-top: 3px;
+}
+
+@media (max-width: 479px) {
+  body {
+    max-width: 80%;
+  }
 }
 
 /******************************************************/
